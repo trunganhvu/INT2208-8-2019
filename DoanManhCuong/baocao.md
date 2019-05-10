@@ -38,7 +38,6 @@
 <li>Kiểm thử hộp đen giúp kiểm tra chức năng bình luận</li>
 <li>kiểm thử hộp trắng giúp đảm bảo mã nguồn không bị lỗi </li>
 </ul>
-
 <b>Một số hình ảnh: </b>
 <img src="https://scontent.fhan5-5.fna.fbcdn.net/v/t1.15752-9/60128170_1010074845864960_1344367013241290752_n.png?_nc_cat=108&_nc_oc=AQn43JU5-Wd91xGHIqAPy3KUl_tfMqEplDberBS1NN2nHTjaK9CMVDEp6B7x0HAfUkijjK90waTvLYpEntMDm47h&_nc_ht=scontent.fhan5-5.fna&oh=ecc7ef8ac4147d126b4f5760d667668b&oe=5D6D0817">
 
