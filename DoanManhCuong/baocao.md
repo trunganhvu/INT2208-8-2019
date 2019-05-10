@@ -9,6 +9,7 @@
     <li>Hoàn thành khóa học trên edx <a href = "https://github.com/manhcuongmas/INT2208-8-2019/blob/master/DoanManhCuong/SoftEng1x.jpg">chi tiết</a></li>
     <li>Bài tập nhóm: Xây dựng website bán giày</li>
     <li>Là một người sử dụng tôi cần chức năng bình luận để đóng góp ý kiến về sản phẩm và giúp cho người bán hàng có điều kiện thay đổi hơn</li>
+    <a href="https://github.com/truonganhhoang/INT2208-8-2019/issues/153">Chi tiết</a>
     
 </ul>
 
@@ -23,14 +24,14 @@
 <br>
 <br>
 <b>3) Thiết kế cấu trúc cơ sở dữ liệu và sơ đồ lớp </b>
-<a></a>
+<a href="https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.s1gtpk2qxmyz">high level design</a>
 <br>
 <br>
 <b>4) Sử dụng mô hình MVC của framework Laravel</b>
-  <a></a>
+  <a href="https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.5ctb0cg4d4m0">low level design</a>
 <br>
 <br>
-<b>5) Triển khai</b>
+<b>5) Triển khai</b>  
 <br>
 <br>
 <b>6) Kiểm thử: </b>
